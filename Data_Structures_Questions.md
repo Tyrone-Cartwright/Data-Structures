@@ -3,18 +3,21 @@ Answer the following questions for each of the data structures you implemented a
 ## Queue
 
 1. What is the runtime complexity of `enqueue`?
+   .insert() time complexity will be O(n).
 
 2. What is the runtime complexity of `dequeue`?
+   .pop() time complexity will be O(1)
 
 3. What is the runtime complexity of `len`?
+   Time complexity will be O(1) since len is already in memory
 
 ## Binary Search Tree
 
-1. What is the runtime complexity of `insert`? 
+1. What is the runtime complexity of `insert`?
 
 2. What is the runtime complexity of `contains`?
 
-3. What is the runtime complexity of `get_max`? 
+3. What is the runtime complexity of `get_max`?
 
 ## Heap
 
